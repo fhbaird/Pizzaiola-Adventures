@@ -1,6 +1,6 @@
 # Pizzaiola-Adventures
-An adventure for pizza
-*This is a WIP*
+An adventure for pizza!
+*This is a WIP*.
 Move the player by using the arrow keys and the space bar to jump. You can wall jump too!
 Enemies can be killed by jumping on top of them.
 Watch out for fireballs from the Canon and running into the enemies.
